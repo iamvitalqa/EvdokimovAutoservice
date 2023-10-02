@@ -14,3 +14,8 @@ D:\study\5 семестр\Разработка программных модул
 D:\study\5 семестр\Разработка программных модулей\Задание 1\Задание 1\Tachkagit\EvdokimovAutoservice\obj\Debug\EvdokimovAutoservice.csproj.CoreCompileInputs.cache
 D:\study\5 семестр\Разработка программных модулей\Задание 1\Задание 1\Tachkagit\EvdokimovAutoservice\obj\Debug\EvdokimovAutoservice.exe
 D:\study\5 семестр\Разработка программных модулей\Задание 1\Задание 1\Tachkagit\EvdokimovAutoservice\obj\Debug\EvdokimovAutoservice.pdb
+D:\study\5 семестр\Разработка программных модулей\Задание 1\Задание 1\Tachkagit\EvdokimovAutoservice\obj\Debug\AddEditPage.g.cs
+D:\study\5 семестр\Разработка программных модулей\Задание 1\Задание 1\Tachkagit\EvdokimovAutoservice\obj\Debug\ServicePage.g.cs
+D:\study\5 семестр\Разработка программных модулей\Задание 1\Задание 1\Tachkagit\EvdokimovAutoservice\obj\Debug\AddEditPage.baml
+D:\study\5 семестр\Разработка программных модулей\Задание 1\Задание 1\Tachkagit\EvdokimovAutoservice\obj\Debug\ServicePage.baml
+D:\study\5 семестр\Разработка программных модулей\Задание 1\Задание 1\Tachkagit\EvdokimovAutoservice\obj\Debug\App.baml
